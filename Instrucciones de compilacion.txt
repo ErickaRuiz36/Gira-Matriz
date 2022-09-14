@@ -1,0 +1,4 @@
+COMPILACIÓN:    gcc GiraFlecha.c presentacionWin.c -o GiraFlecha
+Ejecucion:      GiraFlecha.exe
+
+Nota: El ejecutable ya está generado
